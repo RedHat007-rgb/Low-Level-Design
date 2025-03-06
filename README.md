@@ -13,5 +13,5 @@ Each pattern includes:
 ✔️ Real-world use case  
 
 ## 🛠 Tech Stack  
-- **Language:** Java (or any other language you're using)  
+- **Language:** Java
  
